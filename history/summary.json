@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "66.78%",
-    "uptimeDay": "66.78%",
-    "uptimeWeek": "66.78%",
-    "uptimeMonth": "66.78%",
-    "uptimeYear": "66.78%",
+    "uptime": "67.08%",
+    "uptimeDay": "67.08%",
+    "uptimeWeek": "67.08%",
+    "uptimeMonth": "67.08%",
+    "uptimeYear": "67.08%",
     "time": 4753,
     "timeDay": 4753,
     "timeWeek": 4753,
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 777
+      "2024-11-04": 784
     }
   },
   {
@@ -272,7 +272,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 777
+      "2024-11-04": 784
     }
   },
   {
@@ -310,7 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 776
+      "2024-11-04": 783
     }
   },
   {
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 775
+      "2024-11-04": 782
     }
   },
   {
@@ -512,7 +512,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 775
+      "2024-11-04": 782
     }
   },
   {
@@ -611,18 +611,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/koha2.upmin.edu.ph.ico",
     "slug": "koha-library-system-catalog-backup",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 775
+      "2024-11-04": 782
     }
   },
   {
@@ -642,7 +642,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 775
+      "2024-11-04": 782
     }
   },
   {
@@ -668,19 +668,19 @@
     "url": "https://support.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
-    "status": "down",
-    "uptime": "67.09%",
-    "uptimeDay": "67.09%",
-    "uptimeWeek": "67.09%",
-    "uptimeMonth": "67.09%",
-    "uptimeYear": "67.09%",
-    "time": 3964,
-    "timeDay": 3964,
-    "timeWeek": 3964,
-    "timeMonth": 3964,
-    "timeYear": 3964,
+    "status": "up",
+    "uptime": "66.53%",
+    "uptimeDay": "66.53%",
+    "uptimeWeek": "66.53%",
+    "uptimeMonth": "66.53%",
+    "uptimeYear": "66.53%",
+    "time": 4215,
+    "timeDay": 4215,
+    "timeWeek": 4215,
+    "timeMonth": 4215,
+    "timeYear": 4215,
     "dailyMinutesDown": {
-      "2024-11-04": 255
+      "2024-11-04": 261
     }
   },
   {
@@ -725,18 +725,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ito-inventory.upmin.edu.ph.ico",
     "slug": "snipe-it-asset-management",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 1128,
     "timeDay": 1128,
     "timeWeek": 1128,
     "timeMonth": 1128,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-11-04": 774
+      "2024-11-04": 781
     }
   },
   {
