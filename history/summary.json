@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "64.62%",
-    "uptimeDay": "64.62%",
-    "uptimeWeek": "64.62%",
-    "uptimeMonth": "64.62%",
-    "uptimeYear": "64.62%",
+    "uptime": "65.20%",
+    "uptimeDay": "65.20%",
+    "uptimeWeek": "65.20%",
+    "uptimeMonth": "65.20%",
+    "uptimeYear": "65.20%",
     "time": 4492,
     "timeDay": 4492,
     "timeWeek": 4492,
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 825
+      "2024-11-04": 839
     }
   },
   {
@@ -272,7 +272,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 825
+      "2024-11-04": 839
     }
   },
   {
@@ -310,7 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 825
+      "2024-11-04": 838
     }
   },
   {
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 824
+      "2024-11-04": 837
     }
   },
   {
@@ -512,7 +512,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 824
+      "2024-11-04": 837
     }
   },
   {
@@ -622,7 +622,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 823
+      "2024-11-04": 837
     }
   },
   {
@@ -642,7 +642,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 823
+      "2024-11-04": 836
     }
   },
   {
@@ -668,12 +668,12 @@
     "url": "https://support.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
-    "status": "up",
-    "uptime": "64.21%",
-    "uptimeDay": "64.21%",
-    "uptimeWeek": "64.21%",
-    "uptimeMonth": "64.21%",
-    "uptimeYear": "64.21%",
+    "status": "down",
+    "uptime": "64.76%",
+    "uptimeDay": "64.76%",
+    "uptimeWeek": "64.76%",
+    "uptimeMonth": "64.76%",
+    "uptimeYear": "64.76%",
     "time": 4514,
     "timeDay": 4514,
     "timeWeek": 4514,
@@ -736,7 +736,7 @@
     "timeMonth": 1128,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-11-04": 822
+      "2024-11-04": 836
     }
   },
   {
