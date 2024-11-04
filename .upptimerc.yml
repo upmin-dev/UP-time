@@ -1,31 +1,105 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: upmin-dev # Your GitHub organization or username, where this repository lives
+repo: UP-time # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Main Website
+    url: https://www2.upmin.edu.ph
+  - name: Main Website (NEW)
+    url: https://prod.upmin.edu.ph
+  - name: ACAD Infomation Management System
+    url: https://acad.upmin.edu.ph
+  - name: Cashier Office IS
+    url: https://cashier.upmin.edu.ph
+  - name: CSRS Admin
+    url: https://csrsadmin.upmin.edu.ph
+  - name: CSRS Adviser
+    url: https://adviser.upmin.edu.ph/index.php?go=login
+  - name: CSRS Cashier
+    url: https://cashier.upmin.edu.ph/index.php?go=login
+  - name: CSRS Clearance
+    url: https://clearance.upmin.edu.ph/index.php?go=login
+  - name: CSRS Faculty
+    url: https://faculty.upmin.edu.ph/index.php?go=login
+  - name: CSRS Scholarship
+    url: https://scholarship.upmin.edu.ph/index.php?go=login
+  - name: CSRS SET
+    url: https://csrsset.upmin.edu.ph/index.php?go=login
+  - name: CSRS Student
+    url: https://student.upmin.edu.ph/index.php?go=login
+  - name: CSRS Testing
+    url: https://testing.upmin.edu.ph/index.php?go=login
+  - name: BA English Creative Writing Website
+    url: https://baecw.upmin.edu.ph
+  - name: Department of Food and Science Chemistry Website
+    url: https://dfsc.upmin.edu.ph
+  - name: Department of Mathematics, Physics and Computer Science Website
+    url: https://dmpcs.upmin.edu.ph
+  - name: Mindanao Studies Center Website
+    url: https://msc.upmin.edu.ph
+  - name: Agri-Analytics Lab Website
+    url: https://upmin-agrianalyticslab.up.edu.ph
+  - name: AiDurian Project Website
+    url: https://aidurian.upmin.edu.ph
+  - name: COVID-19 Insights
+    url: https://upmindanao.shinyapps.io/covid19-insights-up-mindanao
+  - name: Marine Biodiversity Database Project
+    url: https://mabida.upmin.edu.ph
+  - name: Philippine Genome Center Website
+    url: https://pgc.upmin.edu.ph
+  - name: TTBDO
+    url: https://upmin-ttbdo.up.edu.ph
+  - name: ALARM Library Website
+    url: https://upalarm.upmin.edu.ph
+  - name: ALARM Library Website Backup
+    url: https://alarm2.upmin.edu.ph
+  - name: GIYA Website
+    url: https://upmin-ilc.up.edu.ph
+  - name: iLib
+    url: http://ilib.upmin.edu.ph
+  - name: Information Technology Office Website
+    url: https://ito.upmin.edu.ph
+  - name: Integrated System for Internal Processes
+    url: https://isip.upmin.edu.ph
+  - name: Integrated System for Internal Processes (Dev)
+    url: https://isip-dev.upmin.edu.ph
+  - name: KASSI Chat Bot
+    url: https://csmchatbot-testbeta.vercel.app
+  - name: KOHA Library System / Catalog
+    url: https://koha.upmin.edu.ph
+  - name: KOHA Library System Staff
+    url: http://staffkoha.upmin.edu.ph
+  - name: KOHA Library System / Catalog Backup
+    url: http://koha2.upmin.edu.ph
+  - name: Manuscript Repository System
+    url: https://upmers.upmin.edu.ph
+  - name: Online Accomplishment Management System
+    url: http://oams.upmin.edu.ph
+  - name: OS Ticket
+    url: https://support.upmin.edu.ph
+  - name: UPMin Online Journal System (NEW)
+    url: https://upminojs.poolreno.com
+  - name: UPMin Online Journal System (OLD)
+    url: http://ojs.upmin.edu.ph
+  - name: SnipeIT Asset Management
+    url: https://ito-inventory.upmin.edu.ph
+  - name: Vaultwarden Password Manager
+    url: https://ito-vault.upmin.edu.ph
+
+assignees: # Users to assign downtime issues (optional)
+  - upmin-dev
+  - upmin-ito
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /UP-time
+  favicon: https://www2.upmin.edu.ph/templates/yoo_revista/favicon.ico
+  logoUrl: https://upload.wikimedia.org/wikipedia/en/c/c3/Unibersidad_ng_Pilipinas_Mindanao.png
+  name: UP-time - UP Mindanao Systems Uptime Monitor
+  theme: night
+  introTitle: "**UP-time** is the open-source uptime monitor and status page of UP Mindanao Systems, powered entirely by GitHub."
+  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/upmin-dev/up-time). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
