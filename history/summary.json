@@ -4,18 +4,19 @@
     "url": "https://www2.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "76.77%",
-    "uptimeDay": "76.77%",
-    "uptimeWeek": "76.77%",
-    "uptimeMonth": "76.77%",
-    "uptimeYear": "76.77%",
+    "status": "down",
+    "uptime": "77.37%",
+    "uptimeDay": "77.37%",
+    "uptimeWeek": "77.37%",
+    "uptimeMonth": "77.37%",
+    "uptimeYear": "77.37%",
     "time": 4108,
     "timeDay": 4108,
     "timeWeek": 4108,
     "timeMonth": 4108,
     "timeYear": 4108,
     "dailyMinutesDown": {
+      "2024-11-05": 3,
       "2024-11-04": 293
     }
   },
@@ -234,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 405,
+      "2024-11-05": 452,
       "2024-11-04": 853
     }
   },
@@ -273,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 405,
+      "2024-11-05": 452,
       "2024-11-04": 853
     }
   },
@@ -312,7 +313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 405,
+      "2024-11-05": 452,
       "2024-11-04": 852
     }
   },
@@ -459,7 +460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 405,
+      "2024-11-05": 452,
       "2024-11-04": 851
     }
   },
@@ -516,7 +517,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 405,
+      "2024-11-05": 452,
       "2024-11-04": 851
     }
   },
@@ -627,7 +628,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 405,
+      "2024-11-05": 452,
       "2024-11-04": 850
     }
   },
@@ -648,7 +649,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 405,
+      "2024-11-05": 453,
       "2024-11-04": 850
     }
   },
@@ -675,12 +676,12 @@
     "url": "https://support.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
-    "status": "up",
-    "uptime": "73.04%",
-    "uptimeDay": "73.04%",
-    "uptimeWeek": "73.04%",
-    "uptimeMonth": "73.04%",
-    "uptimeYear": "73.04%",
+    "status": "down",
+    "uptime": "74.00%",
+    "uptimeDay": "74.00%",
+    "uptimeWeek": "74.00%",
+    "uptimeMonth": "74.00%",
+    "uptimeYear": "74.00%",
     "time": 3867,
     "timeDay": 3867,
     "timeWeek": 3867,
@@ -744,7 +745,7 @@
     "timeMonth": 1128,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-11-05": 405,
+      "2024-11-05": 453,
       "2024-11-04": 850
     }
   },
