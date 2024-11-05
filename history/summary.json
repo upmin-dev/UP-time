@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "73.95%",
-    "uptimeDay": "73.95%",
-    "uptimeWeek": "73.95%",
-    "uptimeMonth": "73.95%",
-    "uptimeYear": "73.95%",
+    "uptime": "75.93%",
+    "uptimeDay": "75.93%",
+    "uptimeWeek": "75.93%",
+    "uptimeMonth": "75.93%",
+    "uptimeYear": "75.93%",
     "time": 4108,
     "timeDay": 4108,
     "timeWeek": 4108,
     "timeMonth": 4108,
     "timeYear": 4108,
     "dailyMinutesDown": {
-      "2024-11-05": 7,
       "2024-11-04": 293
     }
   },
@@ -235,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 296,
+      "2024-11-05": 361,
       "2024-11-04": 853
     }
   },
@@ -274,7 +273,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 296,
+      "2024-11-05": 361,
       "2024-11-04": 853
     }
   },
@@ -313,7 +312,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 296,
+      "2024-11-05": 361,
       "2024-11-04": 852
     }
   },
@@ -460,7 +459,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 296,
+      "2024-11-05": 361,
       "2024-11-04": 851
     }
   },
@@ -517,7 +516,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 296,
+      "2024-11-05": 361,
       "2024-11-04": 851
     }
   },
@@ -628,7 +627,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 296,
+      "2024-11-05": 361,
       "2024-11-04": 850
     }
   },
@@ -649,7 +648,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 296,
+      "2024-11-05": 361,
       "2024-11-04": 850
     }
   },
@@ -676,18 +675,19 @@
     "url": "https://support.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
-    "status": "up",
-    "uptime": "74.32%",
-    "uptimeDay": "74.32%",
-    "uptimeWeek": "74.32%",
-    "uptimeMonth": "74.32%",
-    "uptimeYear": "74.32%",
+    "status": "down",
+    "uptime": "75.67%",
+    "uptimeDay": "75.67%",
+    "uptimeWeek": "75.67%",
+    "uptimeMonth": "75.67%",
+    "uptimeYear": "75.67%",
     "time": 4216,
     "timeDay": 4216,
     "timeWeek": 4216,
     "timeMonth": 4216,
     "timeYear": 4216,
     "dailyMinutesDown": {
+      "2024-11-05": 0,
       "2024-11-04": 294
     }
   },
@@ -744,7 +744,7 @@
     "timeMonth": 1128,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-11-05": 296,
+      "2024-11-05": 361,
       "2024-11-04": 850
     }
   },
