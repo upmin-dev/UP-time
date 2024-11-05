@@ -4,19 +4,19 @@
     "url": "https://www2.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "82.53%",
-    "uptimeDay": "89.99%",
-    "uptimeWeek": "82.53%",
-    "uptimeMonth": "82.53%",
-    "uptimeYear": "82.53%",
+    "status": "down",
+    "uptime": "82.96%",
+    "uptimeDay": "89.79%",
+    "uptimeWeek": "82.96%",
+    "uptimeMonth": "82.96%",
+    "uptimeYear": "82.96%",
     "time": 5441,
     "timeDay": 5305,
     "timeWeek": 5441,
     "timeMonth": 5441,
     "timeYear": 5441,
     "dailyMinutesDown": {
-      "2024-11-05": 60,
+      "2024-11-05": 63,
       "2024-11-04": 293
     }
   },
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 1164,
+      "2024-11-05": 1234,
       "2024-11-04": 853
     }
   },
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 1164,
+      "2024-11-05": 1234,
       "2024-11-04": 853
     }
   },
@@ -302,18 +302,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/msc.upmin.edu.ph.ico",
     "slug": "mindanao-studies-center-website",
     "status": "down",
-    "uptime": "0.01%",
+    "uptime": "0.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 1164,
+      "2024-11-05": 1234,
       "2024-11-04": 852
     }
   },
@@ -460,7 +460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 1164,
+      "2024-11-05": 1234,
       "2024-11-04": 851
     }
   },
@@ -488,11 +488,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilib.upmin.edu.ph.ico",
     "slug": "i-lib",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.47%",
     "uptimeDay": "97.78%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
+    "uptimeWeek": "98.47%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.47%",
     "time": 1935,
     "timeDay": 1142,
     "timeWeek": 1935,
@@ -519,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 1164,
+      "2024-11-05": 1234,
       "2024-11-04": 851
     }
   },
@@ -619,18 +619,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/koha2.upmin.edu.ph.ico",
     "slug": "koha-library-system-catalog-backup",
     "status": "down",
-    "uptime": "0.03%",
+    "uptime": "0.02%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 1164,
+      "2024-11-05": 1234,
       "2024-11-04": 850
     }
   },
@@ -651,7 +651,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 1164,
+      "2024-11-05": 1234,
       "2024-11-04": 850
     }
   },
@@ -679,11 +679,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
     "status": "up",
-    "uptime": "69.33%",
+    "uptime": "70.35%",
     "uptimeDay": "68.30%",
-    "uptimeWeek": "69.33%",
-    "uptimeMonth": "69.33%",
-    "uptimeYear": "69.33%",
+    "uptimeWeek": "70.35%",
+    "uptimeMonth": "70.35%",
+    "uptimeYear": "70.35%",
     "time": 3032,
     "timeDay": 3015,
     "timeWeek": 3032,
@@ -747,7 +747,7 @@
     "timeMonth": 1128,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-11-05": 1164,
+      "2024-11-05": 1234,
       "2024-11-04": 850
     }
   },
