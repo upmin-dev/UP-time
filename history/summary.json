@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "87.45%",
+    "uptime": "87.84%",
     "uptimeDay": "97.23%",
-    "uptimeWeek": "87.45%",
-    "uptimeMonth": "87.45%",
-    "uptimeYear": "87.45%",
+    "uptimeWeek": "87.84%",
+    "uptimeMonth": "87.84%",
+    "uptimeYear": "87.84%",
     "time": 4886,
     "timeDay": 3109,
     "timeWeek": 4886,
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 834,
+      "2024-11-06": 936,
       "2024-11-05": 1440,
       "2024-11-04": 853
     }
@@ -276,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 834,
+      "2024-11-06": 936,
       "2024-11-05": 1440,
       "2024-11-04": 853
     }
@@ -316,7 +316,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 834,
+      "2024-11-06": 936,
       "2024-11-05": 1440,
       "2024-11-04": 852
     }
@@ -464,7 +464,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 834,
+      "2024-11-06": 936,
       "2024-11-05": 1440,
       "2024-11-04": 851
     }
@@ -492,9 +492,9 @@
     "url": "http://ilib.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/ilib.upmin.edu.ph.ico",
     "slug": "i-lib",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.92%",
     "uptimeWeek": "98.98%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.98%",
@@ -504,6 +504,7 @@
     "timeMonth": 1658,
     "timeYear": 1658,
     "dailyMinutesDown": {
+      "2024-11-06": 1,
       "2024-11-05": 32
     }
   },
@@ -524,7 +525,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 835,
+      "2024-11-06": 936,
       "2024-11-05": 1440,
       "2024-11-04": 851
     }
@@ -636,7 +637,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 835,
+      "2024-11-06": 936,
       "2024-11-05": 1440,
       "2024-11-04": 850
     }
@@ -658,7 +659,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 835,
+      "2024-11-06": 936,
       "2024-11-05": 1440,
       "2024-11-04": 850
     }
@@ -687,13 +688,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
     "status": "up",
-    "uptime": "77.26%",
-    "uptimeDay": "85.93%",
-    "uptimeWeek": "77.26%",
-    "uptimeMonth": "77.26%",
-    "uptimeYear": "77.26%",
+    "uptime": "77.97%",
+    "uptimeDay": "88.95%",
+    "uptimeWeek": "77.97%",
+    "uptimeMonth": "77.97%",
+    "uptimeYear": "77.97%",
     "time": 3395,
-    "timeDay": 3204,
+    "timeDay": 3377,
     "timeWeek": 3395,
     "timeMonth": 3395,
     "timeYear": 3395,
@@ -756,7 +757,7 @@
     "timeMonth": 1033,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2024-11-06": 835,
+      "2024-11-06": 936,
       "2024-11-05": 1440,
       "2024-11-04": 850
     }
