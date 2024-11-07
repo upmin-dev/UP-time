@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "87.12%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "87.12%",
-    "uptimeMonth": "87.12%",
-    "uptimeYear": "87.12%",
+    "uptime": "87.86%",
+    "uptimeDay": "91.64%",
+    "uptimeWeek": "87.86%",
+    "uptimeMonth": "87.86%",
+    "uptimeYear": "87.86%",
     "time": 4679,
     "timeDay": 3658,
     "timeWeek": 4679,
     "timeMonth": 4679,
     "timeYear": 4679,
     "dailyMinutesDown": {
-      "2024-11-06": 128,
+      "2024-11-06": 121,
       "2024-11-05": 60,
       "2024-11-04": 293
     }
@@ -27,17 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.upmin.edu.ph.ico",
     "slug": "main-website-new",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3900,
     "timeDay": 3449,
     "timeWeek": 3900,
     "timeMonth": 3900,
     "timeYear": 3900,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-07": 0
+    }
   },
   {
     "name": "ACAD Infomation Management System",
@@ -236,7 +238,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 1436,
+      "2024-11-07": 162,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 853
     }
@@ -276,7 +279,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 1436,
+      "2024-11-07": 162,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 853
     }
@@ -316,7 +320,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 1436,
+      "2024-11-07": 162,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 852
     }
@@ -464,7 +469,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 1436,
+      "2024-11-07": 162,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 851
     }
@@ -493,11 +499,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilib.upmin.edu.ph.ico",
     "slug": "i-lib",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 1532,
     "timeDay": 1235,
     "timeWeek": 1532,
@@ -524,7 +530,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 1436,
+      "2024-11-07": 162,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 851
     }
@@ -636,7 +643,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 1436,
+      "2024-11-07": 162,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
     }
@@ -658,7 +666,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 1436,
+      "2024-11-07": 162,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
     }
@@ -687,11 +696,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
     "status": "up",
-    "uptime": "77.77%",
+    "uptime": "78.72%",
     "uptimeDay": "85.39%",
-    "uptimeWeek": "77.77%",
-    "uptimeMonth": "77.77%",
-    "uptimeYear": "77.77%",
+    "uptimeWeek": "78.72%",
+    "uptimeMonth": "78.72%",
+    "uptimeYear": "78.72%",
     "time": 2940,
     "timeDay": 2495,
     "timeWeek": 2940,
@@ -756,7 +765,8 @@
     "timeMonth": 1068,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2024-11-06": 1436,
+      "2024-11-07": 162,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
     }
