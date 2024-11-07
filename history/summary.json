@@ -4,19 +4,19 @@
     "url": "https://www2.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "88.89%",
-    "uptimeDay": "91.23%",
-    "uptimeWeek": "88.89%",
-    "uptimeMonth": "88.89%",
-    "uptimeYear": "88.89%",
-    "time": 4537,
-    "timeDay": 3459,
-    "timeWeek": 4537,
-    "timeMonth": 4537,
-    "timeYear": 4537,
+    "status": "up",
+    "uptime": "88.80%",
+    "uptimeDay": "90.90%",
+    "uptimeWeek": "88.80%",
+    "uptimeMonth": "88.80%",
+    "uptimeYear": "88.80%",
+    "time": 4481,
+    "timeDay": 3408,
+    "timeWeek": 4481,
+    "timeMonth": 4481,
+    "timeYear": 4481,
     "dailyMinutesDown": {
-      "2024-11-07": 6,
+      "2024-11-07": 11,
       "2024-11-06": 121,
       "2024-11-05": 60,
       "2024-11-04": 293
@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.upmin.edu.ph.ico",
     "slug": "main-website-new",
     "status": "down",
-    "uptime": "90.39%",
-    "uptimeDay": "71.22%",
-    "uptimeWeek": "90.39%",
-    "uptimeMonth": "90.39%",
-    "uptimeYear": "90.39%",
+    "uptime": "90.17%",
+    "uptimeDay": "70.51%",
+    "uptimeWeek": "90.17%",
+    "uptimeMonth": "90.17%",
+    "uptimeYear": "90.17%",
     "time": 3900,
     "timeDay": 3449,
     "timeWeek": 3900,
     "timeMonth": 3900,
     "timeYear": 3900,
     "dailyMinutesDown": {
-      "2024-11-07": 414
+      "2024-11-07": 425
     }
   },
   {
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 576,
+      "2024-11-07": 586,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 853
@@ -280,7 +280,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 576,
+      "2024-11-07": 586,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 853
@@ -321,7 +321,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 576,
+      "2024-11-07": 586,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 852
@@ -459,18 +459,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alarm2.upmin.edu.ph.ico",
     "slug": "alarm-library-website-backup",
     "status": "down",
-    "uptime": "7.79%",
+    "uptime": "7.77%",
     "uptimeDay": "23.27%",
-    "uptimeWeek": "7.79%",
-    "uptimeMonth": "7.79%",
-    "uptimeYear": "7.79%",
+    "uptimeWeek": "7.77%",
+    "uptimeMonth": "7.77%",
+    "uptimeYear": "7.77%",
     "time": 2864,
     "timeDay": 2864,
     "timeWeek": 2864,
     "timeMonth": 2864,
     "timeYear": 2864,
     "dailyMinutesDown": {
-      "2024-11-07": 242,
+      "2024-11-07": 252,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 851
@@ -531,7 +531,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 576,
+      "2024-11-07": 586,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 851
@@ -633,18 +633,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/koha2.upmin.edu.ph.ico",
     "slug": "koha-library-system-catalog-backup",
     "status": "down",
-    "uptime": "7.80%",
+    "uptime": "7.78%",
     "uptimeDay": "23.29%",
-    "uptimeWeek": "7.80%",
-    "uptimeMonth": "7.80%",
-    "uptimeYear": "7.80%",
+    "uptimeWeek": "7.78%",
+    "uptimeMonth": "7.78%",
+    "uptimeYear": "7.78%",
     "time": 7943,
     "timeDay": 7943,
     "timeWeek": 7943,
     "timeMonth": 7943,
     "timeYear": 7943,
     "dailyMinutesDown": {
-      "2024-11-07": 241,
+      "2024-11-07": 251,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
@@ -667,7 +667,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 576,
+      "2024-11-07": 587,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
@@ -679,18 +679,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oams.upmin.edu.ph.ico",
     "slug": "online-accomplishment-management-system",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.72%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 806,
     "timeDay": 893,
     "timeWeek": 806,
     "timeMonth": 806,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2024-11-07": 2
+      "2024-11-07": 12
     }
   },
   {
@@ -699,11 +699,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
     "status": "up",
-    "uptime": "78.51%",
+    "uptime": "78.56%",
     "uptimeDay": "81.80%",
-    "uptimeWeek": "78.51%",
-    "uptimeMonth": "78.51%",
-    "uptimeYear": "78.51%",
+    "uptimeWeek": "78.56%",
+    "uptimeMonth": "78.56%",
+    "uptimeYear": "78.56%",
     "time": 3198,
     "timeDay": 2571,
     "timeWeek": 3198,
@@ -740,18 +740,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ojs.upmin.edu.ph.ico",
     "slug": "up-min-online-journal-system-old",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.73%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 1926,
     "timeDay": 2029,
     "timeWeek": 1926,
     "timeMonth": 1926,
     "timeYear": 1926,
     "dailyMinutesDown": {
-      "2024-11-07": 1
+      "2024-11-07": 12
     }
   },
   {
@@ -771,7 +771,7 @@
     "timeMonth": 1068,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2024-11-07": 576,
+      "2024-11-07": 587,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
@@ -783,18 +783,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ito-vault.upmin.edu.ph.ico",
     "slug": "vaultwarden-password-manager",
     "status": "down",
-    "uptime": "90.46%",
-    "uptimeDay": "71.46%",
-    "uptimeWeek": "90.46%",
-    "uptimeMonth": "90.46%",
-    "uptimeYear": "90.46%",
+    "uptime": "90.24%",
+    "uptimeDay": "70.75%",
+    "uptimeWeek": "90.24%",
+    "uptimeMonth": "90.24%",
+    "uptimeYear": "90.24%",
     "time": 954,
     "timeDay": 1016,
     "timeWeek": 954,
     "timeMonth": 954,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2024-11-07": 411
+      "2024-11-07": 421
     }
   }
 ]
