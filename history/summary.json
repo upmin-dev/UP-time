@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "88.25%",
+    "uptime": "88.38%",
     "uptimeDay": "91.64%",
-    "uptimeWeek": "88.25%",
-    "uptimeMonth": "88.25%",
-    "uptimeYear": "88.25%",
+    "uptimeWeek": "88.38%",
+    "uptimeMonth": "88.38%",
+    "uptimeYear": "88.38%",
     "time": 4679,
     "timeDay": 3658,
     "timeWeek": 4679,
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.upmin.edu.ph.ico",
     "slug": "main-website-new",
     "status": "down",
-    "uptime": "96.80%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "96.80%",
-    "uptimeYear": "96.80%",
+    "uptime": "95.69%",
+    "uptimeDay": "87.82%",
+    "uptimeWeek": "95.69%",
+    "uptimeMonth": "95.69%",
+    "uptimeYear": "95.69%",
     "time": 3900,
     "timeDay": 3449,
     "timeWeek": 3900,
     "timeMonth": 3900,
     "timeYear": 3900,
     "dailyMinutesDown": {
-      "2024-11-07": 129
+      "2024-11-07": 175
     }
   },
   {
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 291,
+      "2024-11-07": 337,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 853
@@ -279,7 +279,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 291,
+      "2024-11-07": 337,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 853
@@ -320,7 +320,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 291,
+      "2024-11-07": 337,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 852
@@ -404,19 +404,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgc.upmin.edu.ph.ico",
     "slug": "philippine-genome-center-website",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1784,
     "timeDay": 572,
     "timeWeek": 1784,
     "timeMonth": 1784,
     "timeYear": 1784,
-    "dailyMinutesDown": {
-      "2024-11-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TTBDO",
@@ -460,11 +458,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alarm2.upmin.edu.ph.ico",
     "slug": "alarm-library-website-backup",
     "status": "up",
-    "uptime": "1.33%",
-    "uptimeDay": "3.69%",
-    "uptimeWeek": "1.33%",
-    "uptimeMonth": "1.33%",
-    "uptimeYear": "1.33%",
+    "uptime": "2.46%",
+    "uptimeDay": "6.92%",
+    "uptimeWeek": "2.46%",
+    "uptimeMonth": "2.46%",
+    "uptimeYear": "2.46%",
     "time": 2864,
     "timeDay": 2864,
     "timeWeek": 2864,
@@ -500,18 +498,19 @@
     "url": "http://ilib.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/ilib.upmin.edu.ph.ico",
     "slug": "i-lib",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
     "time": 1532,
     "timeDay": 1234,
     "timeWeek": 1532,
     "timeMonth": 1532,
     "timeYear": 1532,
     "dailyMinutesDown": {
+      "2024-11-07": 3,
       "2024-11-05": 32
     }
   },
@@ -532,7 +531,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 291,
+      "2024-11-07": 337,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 851
@@ -634,11 +633,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/koha2.upmin.edu.ph.ico",
     "slug": "koha-library-system-catalog-backup",
     "status": "up",
-    "uptime": "1.33%",
-    "uptimeDay": "3.67%",
-    "uptimeWeek": "1.33%",
-    "uptimeMonth": "1.33%",
-    "uptimeYear": "1.33%",
+    "uptime": "2.45%",
+    "uptimeDay": "6.89%",
+    "uptimeWeek": "2.45%",
+    "uptimeMonth": "2.45%",
+    "uptimeYear": "2.45%",
     "time": 7943,
     "timeDay": 7943,
     "timeWeek": 7943,
@@ -668,7 +667,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 291,
+      "2024-11-07": 337,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
@@ -697,18 +696,19 @@
     "url": "https://support.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
-    "status": "up",
-    "uptime": "79.40%",
-    "uptimeDay": "85.39%",
-    "uptimeWeek": "79.40%",
-    "uptimeMonth": "79.40%",
-    "uptimeYear": "79.40%",
+    "status": "down",
+    "uptime": "79.61%",
+    "uptimeDay": "85.31%",
+    "uptimeWeek": "79.61%",
+    "uptimeMonth": "79.61%",
+    "uptimeYear": "79.61%",
     "time": 2940,
     "timeDay": 2495,
     "timeWeek": 2940,
     "timeMonth": 2940,
     "timeYear": 2940,
     "dailyMinutesDown": {
+      "2024-11-07": 1,
       "2024-11-06": 209,
       "2024-11-05": 323,
       "2024-11-04": 294
@@ -767,7 +767,7 @@
     "timeMonth": 1068,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2024-11-07": 291,
+      "2024-11-07": 337,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
@@ -779,18 +779,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ito-vault.upmin.edu.ph.ico",
     "slug": "vaultwarden-password-manager",
     "status": "down",
-    "uptime": "96.88%",
-    "uptimeDay": "91.28%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.88%",
+    "uptime": "95.77%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "95.77%",
+    "uptimeYear": "95.77%",
     "time": 954,
     "timeDay": 1016,
     "timeWeek": 954,
     "timeMonth": 954,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2024-11-07": 126
+      "2024-11-07": 172
     }
   }
 ]
