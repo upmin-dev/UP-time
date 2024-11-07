@@ -4,18 +4,19 @@
     "url": "https://www2.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "88.73%",
-    "uptimeDay": "91.64%",
-    "uptimeWeek": "88.73%",
-    "uptimeMonth": "88.73%",
-    "uptimeYear": "88.73%",
+    "status": "down",
+    "uptime": "88.67%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "88.67%",
+    "uptimeMonth": "88.67%",
+    "uptimeYear": "88.67%",
     "time": 4581,
     "timeDay": 3466,
     "timeWeek": 4581,
     "timeMonth": 4581,
     "timeYear": 4581,
     "dailyMinutesDown": {
+      "2024-11-07": 3,
       "2024-11-06": 121,
       "2024-11-05": 60,
       "2024-11-04": 293
@@ -27,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.upmin.edu.ph.ico",
     "slug": "main-website-new",
     "status": "down",
-    "uptime": "92.85%",
-    "uptimeDay": "79.16%",
-    "uptimeWeek": "92.85%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "92.85%",
+    "uptime": "92.68%",
+    "uptimeDay": "78.64%",
+    "uptimeWeek": "92.68%",
+    "uptimeMonth": "92.68%",
+    "uptimeYear": "92.68%",
     "time": 3900,
     "timeDay": 3449,
     "timeWeek": 3900,
     "timeMonth": 3900,
     "timeYear": 3900,
     "dailyMinutesDown": {
-      "2024-11-07": 300
+      "2024-11-07": 308
     }
   },
   {
@@ -238,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 462,
+      "2024-11-07": 469,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 853
@@ -279,7 +280,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 462,
+      "2024-11-07": 469,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 853
@@ -320,7 +321,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 462,
+      "2024-11-07": 469,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 852
@@ -458,11 +459,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alarm2.upmin.edu.ph.ico",
     "slug": "alarm-library-website-backup",
     "status": "up",
-    "uptime": "5.36%",
-    "uptimeDay": "15.58%",
-    "uptimeWeek": "5.36%",
-    "uptimeMonth": "5.36%",
-    "uptimeYear": "5.36%",
+    "uptime": "5.53%",
+    "uptimeDay": "16.10%",
+    "uptimeWeek": "5.53%",
+    "uptimeMonth": "5.53%",
+    "uptimeYear": "5.53%",
     "time": 2864,
     "timeDay": 2864,
     "timeWeek": 2864,
@@ -530,7 +531,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 462,
+      "2024-11-07": 469,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 851
@@ -632,11 +633,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/koha2.upmin.edu.ph.ico",
     "slug": "koha-library-system-catalog-backup",
     "status": "up",
-    "uptime": "5.35%",
-    "uptimeDay": "15.55%",
-    "uptimeWeek": "5.35%",
-    "uptimeMonth": "5.35%",
-    "uptimeYear": "5.35%",
+    "uptime": "5.52%",
+    "uptimeDay": "16.08%",
+    "uptimeWeek": "5.52%",
+    "uptimeMonth": "5.52%",
+    "uptimeYear": "5.52%",
     "time": 7943,
     "timeDay": 7943,
     "timeWeek": 7943,
@@ -666,7 +667,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 462,
+      "2024-11-07": 469,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
@@ -678,19 +679,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/oams.upmin.edu.ph.ico",
     "slug": "online-accomplishment-management-system",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 806,
     "timeDay": 893,
     "timeWeek": 806,
     "timeMonth": 806,
     "timeYear": 806,
-    "dailyMinutesDown": {
-      "2024-11-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OS Ticket",
@@ -698,11 +697,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
     "status": "up",
-    "uptime": "78.73%",
+    "uptime": "78.76%",
     "uptimeDay": "84.13%",
-    "uptimeWeek": "78.73%",
-    "uptimeMonth": "78.73%",
-    "uptimeYear": "78.73%",
+    "uptimeWeek": "78.76%",
+    "uptimeMonth": "78.76%",
+    "uptimeYear": "78.76%",
     "time": 3272,
     "timeDay": 2725,
     "timeWeek": 3272,
@@ -739,19 +738,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ojs.upmin.edu.ph.ico",
     "slug": "up-min-online-journal-system-old",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1926,
     "timeDay": 2029,
     "timeWeek": 1926,
     "timeMonth": 1926,
     "timeYear": 1926,
-    "dailyMinutesDown": {
-      "2024-11-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SnipeIT Asset Management",
@@ -770,7 +767,7 @@
     "timeMonth": 1068,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2024-11-07": 462,
+      "2024-11-07": 470,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
@@ -782,18 +779,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ito-vault.upmin.edu.ph.ico",
     "slug": "vaultwarden-password-manager",
     "status": "down",
-    "uptime": "92.92%",
-    "uptimeDay": "79.40%",
-    "uptimeWeek": "92.92%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "92.92%",
+    "uptime": "92.76%",
+    "uptimeDay": "78.88%",
+    "uptimeWeek": "92.76%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "92.76%",
     "time": 954,
     "timeDay": 1016,
     "timeWeek": 954,
     "timeMonth": 954,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2024-11-07": 297
+      "2024-11-07": 304
     }
   }
 ]
