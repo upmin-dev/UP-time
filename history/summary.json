@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www2.upmin.edu.ph.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "89.61%",
-    "uptimeDay": "94.17%",
-    "uptimeWeek": "89.61%",
-    "uptimeMonth": "89.61%",
-    "uptimeYear": "89.61%",
+    "uptime": "89.67%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "89.67%",
+    "uptimeMonth": "89.67%",
+    "uptimeYear": "89.67%",
     "time": 4419,
-    "timeDay": 3465,
+    "timeDay": 3196,
     "timeWeek": 4419,
     "timeMonth": 4419,
     "timeYear": 4419,
@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.upmin.edu.ph.ico",
     "slug": "main-website-new",
     "status": "up",
-    "uptime": "89.55%",
+    "uptime": "89.60%",
     "uptimeDay": "66.94%",
-    "uptimeWeek": "89.55%",
-    "uptimeMonth": "89.55%",
-    "uptimeYear": "89.55%",
+    "uptimeWeek": "89.60%",
+    "uptimeMonth": "89.60%",
+    "uptimeYear": "89.60%",
     "time": 3960,
     "timeDay": 3795,
     "timeWeek": 3960,
@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/acad.upmin.edu.ph.ico",
     "slug": "acad-infomation-management-system",
     "status": "down",
-    "uptime": "95.10%",
-    "uptimeDay": "84.49%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "95.10%",
+    "uptime": "94.58%",
+    "uptimeDay": "82.78%",
+    "uptimeWeek": "94.58%",
+    "uptimeMonth": "94.58%",
+    "uptimeYear": "94.58%",
     "time": 1729,
     "timeDay": 1711,
     "timeWeek": 1729,
     "timeMonth": 1729,
     "timeYear": 1729,
     "dailyMinutesDown": {
-      "2024-11-07": 223
+      "2024-11-07": 248
     }
   },
   {
@@ -67,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cashier.upmin.edu.ph.ico",
     "slug": "cashier-office-is",
     "status": "down",
-    "uptime": "95.11%",
-    "uptimeDay": "84.53%",
-    "uptimeWeek": "95.11%",
-    "uptimeMonth": "95.11%",
-    "uptimeYear": "95.11%",
+    "uptime": "94.60%",
+    "uptimeDay": "82.81%",
+    "uptimeWeek": "94.60%",
+    "uptimeMonth": "94.60%",
+    "uptimeYear": "94.60%",
     "time": 2892,
     "timeDay": 1723,
     "timeWeek": 2892,
     "timeMonth": 2892,
     "timeYear": 2892,
     "dailyMinutesDown": {
-      "2024-11-07": 223
+      "2024-11-07": 247
     }
   },
   {
@@ -87,18 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/csrsadmin.upmin.edu.ph.ico",
     "slug": "csrs-admin",
     "status": "down",
-    "uptime": "95.12%",
-    "uptimeDay": "84.57%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "95.12%",
-    "uptimeYear": "95.12%",
+    "uptime": "94.61%",
+    "uptimeDay": "82.85%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "94.61%",
+    "uptimeYear": "94.61%",
     "time": 3197,
     "timeDay": 1790,
     "timeWeek": 3197,
     "timeMonth": 3197,
     "timeYear": 3197,
     "dailyMinutesDown": {
-      "2024-11-07": 222
+      "2024-11-07": 247
     }
   },
   {
@@ -107,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/adviser.upmin.edu.ph.ico",
     "slug": "csrs-adviser",
     "status": "down",
-    "uptime": "95.13%",
-    "uptimeDay": "84.61%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "95.13%",
-    "uptimeYear": "95.13%",
+    "uptime": "94.62%",
+    "uptimeDay": "82.89%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "94.62%",
+    "uptimeYear": "94.62%",
     "time": 3788,
     "timeDay": 2442,
     "timeWeek": 3788,
     "timeMonth": 3788,
     "timeYear": 3788,
     "dailyMinutesDown": {
-      "2024-11-07": 222
+      "2024-11-07": 246
     }
   },
   {
@@ -127,18 +127,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cashier.upmin.edu.ph.ico",
     "slug": "csrs-cashier",
     "status": "down",
-    "uptime": "95.14%",
-    "uptimeDay": "84.64%",
-    "uptimeWeek": "95.14%",
-    "uptimeMonth": "95.14%",
-    "uptimeYear": "95.14%",
+    "uptime": "94.63%",
+    "uptimeDay": "82.92%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "94.63%",
     "time": 671,
     "timeDay": 997,
     "timeWeek": 671,
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-11-07": 221
+      "2024-11-07": 246
     }
   },
   {
@@ -147,18 +147,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/clearance.upmin.edu.ph.ico",
     "slug": "csrs-clearance",
     "status": "down",
-    "uptime": "95.15%",
-    "uptimeDay": "84.68%",
-    "uptimeWeek": "95.15%",
-    "uptimeMonth": "95.15%",
-    "uptimeYear": "95.15%",
+    "uptime": "94.64%",
+    "uptimeDay": "82.96%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "94.64%",
+    "uptimeYear": "94.64%",
     "time": 2483,
     "timeDay": 1028,
     "timeWeek": 2483,
     "timeMonth": 2483,
     "timeYear": 2483,
     "dailyMinutesDown": {
-      "2024-11-07": 221
+      "2024-11-07": 245
     }
   },
   {
@@ -167,18 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/faculty.upmin.edu.ph.ico",
     "slug": "csrs-faculty",
     "status": "down",
-    "uptime": "95.17%",
-    "uptimeDay": "84.72%",
-    "uptimeWeek": "95.17%",
-    "uptimeMonth": "95.17%",
-    "uptimeYear": "95.17%",
+    "uptime": "94.65%",
+    "uptimeDay": "83.00%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "94.65%",
+    "uptimeYear": "94.65%",
     "time": 2043,
     "timeDay": 2379,
     "timeWeek": 2043,
     "timeMonth": 2043,
     "timeYear": 2043,
     "dailyMinutesDown": {
-      "2024-11-07": 220
+      "2024-11-07": 245
     }
   },
   {
@@ -187,18 +187,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/scholarship.upmin.edu.ph.ico",
     "slug": "csrs-scholarship",
     "status": "down",
-    "uptime": "95.18%",
-    "uptimeDay": "84.75%",
-    "uptimeWeek": "95.18%",
-    "uptimeMonth": "95.18%",
-    "uptimeYear": "95.18%",
+    "uptime": "94.66%",
+    "uptimeDay": "83.04%",
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "94.66%",
+    "uptimeYear": "94.66%",
     "time": 2890,
     "timeDay": 1691,
     "timeWeek": 2890,
     "timeMonth": 2890,
     "timeYear": 2890,
     "dailyMinutesDown": {
-      "2024-11-07": 220
+      "2024-11-07": 244
     }
   },
   {
@@ -207,18 +207,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/csrsset.upmin.edu.ph.ico",
     "slug": "csrs-set",
     "status": "down",
-    "uptime": "95.19%",
-    "uptimeDay": "84.79%",
-    "uptimeWeek": "95.19%",
-    "uptimeMonth": "95.19%",
-    "uptimeYear": "95.19%",
+    "uptime": "94.68%",
+    "uptimeDay": "83.07%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "94.68%",
+    "uptimeYear": "94.68%",
     "time": 2393,
     "timeDay": 1043,
     "timeWeek": 2393,
     "timeMonth": 2393,
     "timeYear": 2393,
     "dailyMinutesDown": {
-      "2024-11-07": 219
+      "2024-11-07": 244
     }
   },
   {
@@ -227,18 +227,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.upmin.edu.ph.ico",
     "slug": "csrs-student",
     "status": "down",
-    "uptime": "95.20%",
-    "uptimeDay": "84.83%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "95.20%",
-    "uptimeYear": "95.20%",
+    "uptime": "94.69%",
+    "uptimeDay": "83.11%",
+    "uptimeWeek": "94.69%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "94.69%",
     "time": 1663,
     "timeDay": 1759,
     "timeWeek": 1663,
     "timeMonth": 1663,
     "timeYear": 1663,
     "dailyMinutesDown": {
-      "2024-11-07": 219
+      "2024-11-07": 243
     }
   },
   {
@@ -258,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 820,
+      "2024-11-07": 845,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 853
@@ -270,18 +270,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/baecw.upmin.edu.ph.ico",
     "slug": "ba-english-creative-writing-website",
     "status": "down",
-    "uptime": "95.21%",
-    "uptimeDay": "84.86%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "95.21%",
-    "uptimeYear": "95.21%",
+    "uptime": "94.70%",
+    "uptimeDay": "83.15%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "94.70%",
+    "uptimeYear": "94.70%",
     "time": 1194,
     "timeDay": 1259,
     "timeWeek": 1194,
     "timeMonth": 1194,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2024-11-07": 218
+      "2024-11-07": 243
     }
   },
   {
@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 820,
+      "2024-11-07": 845,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 853
@@ -342,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 820,
+      "2024-11-07": 845,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 852
@@ -372,18 +372,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aidurian.upmin.edu.ph.ico",
     "slug": "ai-durian-project-website",
     "status": "down",
-    "uptime": "95.21%",
-    "uptimeDay": "84.87%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "95.21%",
-    "uptimeYear": "95.21%",
+    "uptime": "94.70%",
+    "uptimeDay": "83.15%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "94.70%",
+    "uptimeYear": "94.70%",
     "time": 16133,
     "timeDay": 19295,
     "timeWeek": 16133,
     "timeMonth": 16133,
     "timeYear": 16133,
     "dailyMinutesDown": {
-      "2024-11-07": 218
+      "2024-11-07": 243
     }
   },
   {
@@ -482,11 +482,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alarm2.upmin.edu.ph.ico",
     "slug": "alarm-library-website-backup",
     "status": "up",
-    "uptime": "11.35%",
-    "uptimeDay": "35.86%",
-    "uptimeWeek": "11.35%",
-    "uptimeMonth": "11.35%",
-    "uptimeYear": "11.35%",
+    "uptime": "11.83%",
+    "uptimeDay": "37.57%",
+    "uptimeWeek": "11.83%",
+    "uptimeMonth": "11.83%",
+    "uptimeYear": "11.83%",
     "time": 8251,
     "timeDay": 8251,
     "timeWeek": 8251,
@@ -523,11 +523,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilib.upmin.edu.ph.ico",
     "slug": "i-lib",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "97.54%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.52%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
     "time": 1495,
     "timeDay": 1235,
     "timeWeek": 1495,
@@ -555,7 +555,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 820,
+      "2024-11-07": 845,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 851
@@ -567,18 +567,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/isip.upmin.edu.ph.ico",
     "slug": "integrated-system-for-internal-processes",
     "status": "down",
-    "uptime": "95.23%",
-    "uptimeDay": "84.92%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "95.23%",
+    "uptime": "94.71%",
+    "uptimeDay": "83.20%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "94.71%",
     "time": 1253,
     "timeDay": 1316,
     "timeWeek": 1253,
     "timeMonth": 1253,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2024-11-07": 217
+      "2024-11-07": 242
     }
   },
   {
@@ -587,18 +587,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/isip-dev.upmin.edu.ph.ico",
     "slug": "integrated-system-for-internal-processes-dev",
     "status": "down",
-    "uptime": "95.23%",
-    "uptimeDay": "84.92%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "95.23%",
+    "uptime": "94.71%",
+    "uptimeDay": "83.20%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "94.71%",
     "time": 1451,
     "timeDay": 1317,
     "timeWeek": 1451,
     "timeMonth": 1451,
     "timeYear": 1451,
     "dailyMinutesDown": {
-      "2024-11-07": 217
+      "2024-11-07": 242
     }
   },
   {
@@ -661,11 +661,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/koha2.upmin.edu.ph.ico",
     "slug": "koha-library-system-catalog-backup",
     "status": "up",
-    "uptime": "11.36%",
-    "uptimeDay": "35.86%",
-    "uptimeWeek": "11.36%",
-    "uptimeMonth": "11.36%",
-    "uptimeYear": "11.36%",
+    "uptime": "11.84%",
+    "uptimeDay": "37.58%",
+    "uptimeWeek": "11.84%",
+    "uptimeMonth": "11.84%",
+    "uptimeYear": "11.84%",
     "time": 8056,
     "timeDay": 8056,
     "timeWeek": 8056,
@@ -695,7 +695,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 820,
+      "2024-11-07": 845,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
@@ -726,14 +726,14 @@
     "url": "https://support.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
-    "status": "up",
-    "uptime": "78.26%",
-    "uptimeDay": "79.70%",
-    "uptimeWeek": "78.26%",
-    "uptimeMonth": "78.26%",
-    "uptimeYear": "78.26%",
+    "status": "down",
+    "uptime": "78.37%",
+    "uptimeDay": "80.63%",
+    "uptimeWeek": "78.37%",
+    "uptimeMonth": "78.37%",
+    "uptimeYear": "78.37%",
     "time": 3126,
-    "timeDay": 2503,
+    "timeDay": 2642,
     "timeWeek": 3126,
     "timeMonth": 3126,
     "timeYear": 3126,
@@ -799,7 +799,7 @@
     "timeMonth": 1068,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2024-11-07": 820,
+      "2024-11-07": 845,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 850
@@ -811,11 +811,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ito-vault.upmin.edu.ph.ico",
     "slug": "vaultwarden-password-manager",
     "status": "up",
-    "uptime": "89.58%",
+    "uptime": "89.63%",
     "uptimeDay": "67.06%",
-    "uptimeWeek": "89.58%",
-    "uptimeMonth": "89.58%",
-    "uptimeYear": "89.58%",
+    "uptimeWeek": "89.63%",
+    "uptimeMonth": "89.63%",
+    "uptimeYear": "89.63%",
     "time": 970,
     "timeDay": 1017,
     "timeWeek": 970,
