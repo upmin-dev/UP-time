@@ -6,7 +6,7 @@
     "slug": "main-website",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "78.14%",
+    "uptimeDay": "82.48%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 2770,
     "timeYear": 2770,
     "dailyMinutesDown": {
-      "2024-11-25": 87,
+      "2024-11-25": 76,
       "2024-11-24": 536,
       "2024-11-23": 101,
       "2024-11-22": 56,
@@ -357,7 +357,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 1018,
+      "2024-11-25": 1056,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -416,7 +416,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 1018,
+      "2024-11-25": 1056,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -630,9 +630,9 @@
     "url": "http://ilib.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/ilib.upmin.edu.ph.ico",
     "slug": "i-lib",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.84%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -642,6 +642,7 @@
     "timeMonth": 1051,
     "timeYear": 1051,
     "dailyMinutesDown": {
+      "2024-11-25": 1,
       "2024-11-24": 646,
       "2024-11-23": 50,
       "2024-11-22": 1240,
@@ -674,7 +675,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 1018,
+      "2024-11-25": 1056,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -848,7 +849,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 397
+      "2024-11-25": 434
     }
   },
   {
@@ -880,7 +881,7 @@
     "slug": "os-ticket",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "76.55%",
+    "uptimeDay": "78.57%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -919,11 +920,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/upminojs.poolreno.com.ico",
     "slug": "up-min-online-journal-system-new",
     "status": "up",
-    "uptime": "85.51%",
+    "uptime": "86.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.51%",
-    "uptimeMonth": "85.51%",
-    "uptimeYear": "85.51%",
+    "uptimeWeek": "86.76%",
+    "uptimeMonth": "86.76%",
+    "uptimeYear": "86.76%",
     "time": 786,
     "timeDay": 786,
     "timeWeek": 786,
@@ -983,7 +984,7 @@
     "timeMonth": 972,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2024-11-25": 1019,
+      "2024-11-25": 1056,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
