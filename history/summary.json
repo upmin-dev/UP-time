@@ -6,7 +6,7 @@
     "slug": "main-website",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "8.72%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -357,7 +357,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 622,
+      "2024-11-25": 661,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -416,7 +416,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 622,
+      "2024-11-25": 661,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -674,7 +674,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 622,
+      "2024-11-25": 661,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -837,18 +837,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/omm.upmin.edu.ph.ico",
     "slug": "upmin-online-manuscript-manager",
     "status": "down",
-    "uptime": "4.22%",
-    "uptimeDay": "4.22%",
-    "uptimeWeek": "4.22%",
-    "uptimeMonth": "4.22%",
-    "uptimeYear": "4.22%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 1
+      "2024-11-25": 40
     }
   },
   {
@@ -878,7 +878,7 @@
     "url": "https://support.upmin.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/support.upmin.edu.ph.ico",
     "slug": "os-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -890,6 +890,7 @@
     "timeMonth": 1646,
     "timeYear": 1646,
     "dailyMinutesDown": {
+      "2024-11-25": 0,
       "2024-11-24": 618,
       "2024-11-23": 311,
       "2024-11-22": 93,
@@ -982,7 +983,7 @@
     "timeMonth": 972,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2024-11-25": 622,
+      "2024-11-25": 661,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
