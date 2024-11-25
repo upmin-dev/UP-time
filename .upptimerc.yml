@@ -26,8 +26,6 @@ sites:
     url: https://csrsset.upmin.edu.ph/index.php?go=login
   - name: CSRS Student
     url: https://student.upmin.edu.ph/index.php?go=login
-  - name: CSRS Testing
-    url: https://testing.upmin.edu.ph/index.php?go=login
   - name: BA English Creative Writing Website
     url: https://baecw.upmin.edu.ph
   - name: Department of Food and Science Chemistry Website
@@ -70,8 +68,8 @@ sites:
     url: http://staffkoha.upmin.edu.ph
   - name: KOHA Library System / Catalog Backup
     url: http://koha2.upmin.edu.ph
-  - name: Manuscript Repository System
-    url: https://upmers.upmin.edu.ph
+  - name: UPMIN Online Manuscript Manager
+    url: https://omm.upmin.edu.ph
   - name: Online Accomplishment Management System
     url: http://oams.upmin.edu.ph
   - name: OS Ticket
