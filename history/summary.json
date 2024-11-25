@@ -837,18 +837,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/omm.upmin.edu.ph.ico",
     "slug": "upmin-online-manuscript-manager",
     "status": "down",
-    "uptime": "5.93%",
-    "uptimeDay": "5.93%",
-    "uptimeWeek": "5.93%",
-    "uptimeMonth": "5.93%",
-    "uptimeYear": "5.93%",
+    "uptime": "4.22%",
+    "uptimeDay": "4.22%",
+    "uptimeWeek": "4.22%",
+    "uptimeMonth": "4.22%",
+    "uptimeYear": "4.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 0
+      "2024-11-25": 1
     }
   },
   {
