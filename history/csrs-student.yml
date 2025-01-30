@@ -1,7 +1,7 @@
 url: https://student.upmin.edu.ph/index.php?go=login
-status: down
-code: 500
-responseTime: 1040
-lastUpdated: 2025-01-30T05:40:13.050Z
+status: up
+code: 200
+responseTime: 2012
+lastUpdated: 2025-01-30T05:47:52.431Z
 startTime: 2024-11-25T10:20:20.880Z
 generator: Upptime <https://github.com/upptime/upptime>
