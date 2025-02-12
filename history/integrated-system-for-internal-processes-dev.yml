@@ -1,7 +1,7 @@
 url: https://isip-dev.upmin.edu.ph
-status: up
-code: 200
-responseTime: 1383
-lastUpdated: 2025-02-12T23:17:36.290Z
+status: down
+code: 503
+responseTime: 1042
+lastUpdated: 2025-02-12T23:40:54.891Z
 startTime: 2024-11-25T10:21:11.833Z
 generator: Upptime <https://github.com/upptime/upptime>
