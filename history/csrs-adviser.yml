@@ -1,7 +1,7 @@
 url: https://adviser.upmin.edu.ph/index.php?go=login
-status: down
-code: 500
-responseTime: 1515
-lastUpdated: 2025-02-24T23:18:02.045Z
+status: up
+code: 200
+responseTime: 2294
+lastUpdated: 2025-02-25T06:23:07.597Z
 startTime: 2024-11-25T10:20:12.794Z
 generator: Upptime <https://github.com/upptime/upptime>
