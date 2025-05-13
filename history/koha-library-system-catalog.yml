@@ -1,7 +1,7 @@
 url: https://koha.upmin.edu.ph
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-13T03:31:01.433Z
+status: up
+code: 200
+responseTime: 4217
+lastUpdated: 2025-05-13T07:32:58.982Z
 startTime: 2024-11-25T10:21:13.892Z
 generator: Upptime <https://github.com/upptime/upptime>
