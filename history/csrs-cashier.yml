@@ -1,7 +1,7 @@
 url: https://cashier.upmin.edu.ph/index.php?go=login
-status: down
-code: 522
-responseTime: 19654
-lastUpdated: 2026-06-07T00:27:57.532Z
+status: up
+code: 200
+responseTime: 1171
+lastUpdated: 2026-06-07T06:20:51.656Z
 startTime: 2024-11-25T10:20:14.566Z
 generator: Upptime <https://github.com/upptime/upptime>
