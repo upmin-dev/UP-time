@@ -1,7 +1,7 @@
 url: https://upmindanao.shinyapps.io/covid19-insights-up-mindanao
-status: down
-code: 500
-responseTime: 11076
-lastUpdated: 2026-07-06T21:55:02.850Z
+status: up
+code: 200
+responseTime: 1706
+lastUpdated: 2026-07-06T22:54:46.232Z
 startTime: 2024-11-25T10:20:45.576Z
 generator: Upptime <https://github.com/upptime/upptime>
